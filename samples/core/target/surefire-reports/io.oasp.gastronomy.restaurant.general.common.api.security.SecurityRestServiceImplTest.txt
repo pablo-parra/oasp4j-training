@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.oasp.gastronomy.restaurant.general.common.api.security.SecurityRestServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.213 sec - in io.oasp.gastronomy.restaurant.general.common.api.security.SecurityRestServiceImplTest

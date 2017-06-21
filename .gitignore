@@ -1,5 +1,15 @@
 # Compiled class file
+
 *.class
+*.classpath
+*.project
+*.iml
+.*
+java/samples/server/target/
+
+java/samples/server/eclipse-target/
+**/src/generated/
+**/tmp/
 
 # Log file
 *.log

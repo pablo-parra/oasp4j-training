@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.oasp.gastronomy.restaurant.offermanagement.batch.impl.productimport.ProductManagementTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.178 sec - in io.oasp.gastronomy.restaurant.offermanagement.batch.impl.productimport.ProductManagementTest

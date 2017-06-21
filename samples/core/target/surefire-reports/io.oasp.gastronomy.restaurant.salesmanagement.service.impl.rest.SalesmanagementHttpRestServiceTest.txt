@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.oasp.gastronomy.restaurant.salesmanagement.service.impl.rest.SalesmanagementHttpRestServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.623 sec - in io.oasp.gastronomy.restaurant.salesmanagement.service.impl.rest.SalesmanagementHttpRestServiceTest

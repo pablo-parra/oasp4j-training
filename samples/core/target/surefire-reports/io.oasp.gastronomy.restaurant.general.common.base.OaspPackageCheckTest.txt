@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.oasp.gastronomy.restaurant.general.common.base.OaspPackageCheckTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.001 sec - in io.oasp.gastronomy.restaurant.general.common.base.OaspPackageCheckTest
